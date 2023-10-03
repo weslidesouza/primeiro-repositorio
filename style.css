@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+    .cabeçalho { 
+    background-color:#A87B7B ;
+    color:white ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabeçalho-imagem{
+    width: 25%;
+}
+
+.cabeçalho-lista-item{
+    display:inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+.escola-imagem{
+    width: 20%;
+}
+
+.escola{
+    background-image: linear-gradient(#A87B7B,hsl(88, 72%, 25%) );
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
+.imagem.jpeg{
+    width: 120px;
+}
+.teniz-icone{
+    width: 24px;
+}
